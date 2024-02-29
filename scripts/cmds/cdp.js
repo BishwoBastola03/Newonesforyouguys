@@ -4,7 +4,7 @@ const fs = require("fs-extra");
 module.exports = {
  config: {
  name: "cdp",
- aliases: [],
+ aliases: ['cp'],
  version: "1.0",
  author: "XyryllPanget",
  countDown: 5,
